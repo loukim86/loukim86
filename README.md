@@ -13,11 +13,9 @@ I am a junior front-end web developer with experience in creating and maintainin
 ### Tools
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Contact Information
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- GitHub: [Your GitHub Profile](https://github.com/username)
+- Email: kimluisa2886@gmail.com
+
