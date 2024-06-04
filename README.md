@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a junior front-end developer with experience in creating and maintaining web applications. I have learned the following technologies:
+I am a junior front-end developer💻 with experience in creating and maintaining web applications. I have learned the following technologies:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -11,12 +11,12 @@ I am a junior front-end developer with experience in creating and maintaining we
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=GreenSock&logoColor=white)
 
-### Tools
+### 🔧 Tools:
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Connect with me:
+### 📞 Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/code_writer23/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/nnh1piar381znaAU/?mibextid=LQQJ4d)
 .[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-luiza-kim.vercel.app/)
