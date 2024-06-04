@@ -19,7 +19,7 @@ I am a junior front-end developer with experience in creating and maintaining we
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/code_writer23/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/share/nnh1piar381znaAU/?mibextid=LQQJ4d)
-![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+.[![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-luiza-kim.vercel.app/)
 
 
 
