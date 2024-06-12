@@ -9,7 +9,6 @@ I'm Luiza, a passionate Frontend Developer with a strong foundation in building 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=GreenSock&logoColor=white)
 
